@@ -1,0 +1,136 @@
+/*header*/
+.header_block{
+	border-radius: 0px;
+	    color: white;
+    font-weight: bold;
+}
+.navbar_align{
+	margin-left: 5%;
+}
+/*Homecontent*/
+.home_content{
+}
+
+.homecontent_space{
+	background-color: #e6e6e6;
+    width: 19%;
+    height: 2000px;
+    float: left;
+
+}
+.homecontent_block_hotnews{
+	width: 480px;
+    float: left;
+    margin-left: 10px;
+   padding-left: 1%
+}
+.home_mainimage{
+	 width: 450px;
+    height: 400px;
+    margin-top: 3%;
+}
+.home_maintitle{
+	color: black;
+	margin-left: 1%;
+}
+.home_maincontent{
+	font-size: 19px;
+}
+.home_leftcontent{
+	width: 310px;
+	float: left;
+	margin-left: 15px;
+
+}
+.home_leftcontent_hotnews{
+	border-top: 3px solid #333;
+    font-size: 20px;
+    padding-top: 0;
+    margin-bottom: 10px;
+    color: #333;
+    font-weight: bolder;
+    padding: 10px 10px 10px 10px;
+}
+.home_leftcontent_newsborder{
+	border: 1px solid #bdbdbd;
+	padding: 10px 10px 10px 10px;
+}
+.home_leftcontent_a{
+	color: #333;
+	text-decoration: none;
+	font-size: 14px;
+}
+.home_extranews{
+	float: left;
+	margin-top: 2%;
+	width :700px;
+	padding: 1% 1% 1% 1%;
+}
+.home_MainExtra{
+	float: left;
+	width: 300px;
+	padding-bottom: 5%;
+	padding-left: 1%;
+}
+.home_MainExtraImg{
+	width: 270px;
+	height: 270px;
+
+}
+.home_MainExtraSize{
+	font-size: 15px;
+	margin-left: 1%;
+	margin-top: 2%;	
+}
+.home_ExtraNewsSize{
+	border: 1px solid #bdbdbd;
+	float: left;
+	margin-bottom: 1%;
+}
+.home_ExtraNewsContent{
+	width: 270px;
+	height: 70px;
+	float: right;
+	padding: 1% 1% 1% 2%;
+}
+.home_readmost{
+	float: left;
+	width: 280px;
+	height: 200px;
+
+}
+.home_readmost_img{
+	    width: 265px;
+    height: 180px;
+}
+.home_readmost_tille{
+	font-size: 16px;
+	width: 200px
+}
+.home_readmost_extranews{
+	margin-top: 5%;
+}
+.home_readmost_extranews_img{
+	width: 130px;
+	height: 80px;
+	float: left;
+	margin-left: 2%;
+    margin-right: 2%;
+}
+.home_readmost_extranews_title{
+	font-size: 10px;
+	height: 50px;
+	width: 100px;
+}
+/*footer*/
+.footer{
+	background-color: #333;
+	height: 300px;
+	width: 100%;
+	float: left;
+	margin-top: 2%;
+}
+a:hover{
+	color:red;
+	
+}
